@@ -1,0 +1,22 @@
+.card{
+    min-width: 275px;
+    max-width: 450px;
+    overflow: auto;
+  }
+
+.title {
+    font-size: 14;
+    text-align: "left";
+  }
+.pos{
+    margin-bottom: 12;
+  }
+.middle{
+      text-align: "center";
+  }
+.content{
+    align-content: "center";
+    justify-content: "center";
+    align-items: "center";
+    display: "flex";
+  }
